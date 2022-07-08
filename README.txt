@@ -1,6 +1,10 @@
-В .gitignore  добавала файл Help.txt и изображения с названиями:
 
-Help.txt это файл с пояснениями к работе
+В файле нinstruction.md аходится информация о комндах git
+В файле instruction_GitHub.md находится информация о работе с GitHub
+В файле markdown_instruction.md находится инструкция по работе с языком разметки Markdown
+
+
+В .gitignore - изображения с названиями:
 
 LT.jpg
 oshki_oty_otiki-zhivotnye-38666.jpeg
